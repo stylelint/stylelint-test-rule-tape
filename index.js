@@ -15,6 +15,10 @@ function assertEquality(processCss, context) {
 
 module.exports = stylelint.createRuleTester(assertEquality);
 
+// Anybody want to use another test engine?
+//
+// Here are some possible modules:
+//
 // AVA rule tester
 //
 // import createStylelintRuleTester from "./createStylelintRuleTester"

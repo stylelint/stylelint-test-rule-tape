@@ -1,6 +1,6 @@
 {
   "name": "stylelint-test-rule-tape",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A stylelint rule tester using tape",
   "main": "index.js",
   "scripts": {
@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/stylelint/stylelint-test-rule-tape#readme",
   "dependencies": {
-    "stylelint": "^5.2.1",
+    "stylelint": "^6.2.0",
     "tape": "^4.5.1"
   }
 }
